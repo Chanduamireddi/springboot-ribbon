@@ -1,0 +1,9 @@
+- Course: Java Week 10 Lab Activity
+- Name: Sai Chandu Amireddi 
+- ID: N01611293
+- Ribbon Eureka Server
+-- http://localhost:8761/
+- Ribbon Server
+-- http://localhost:9090/
+- Ribbon Client
+-- http://localhost:8888/client/frontend
